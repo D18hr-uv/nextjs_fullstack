@@ -24,9 +24,7 @@ export default withAuth(
                 return !!token  // bool 
             },
         }
-        }
     }
-
 );
 
 export const config = {
